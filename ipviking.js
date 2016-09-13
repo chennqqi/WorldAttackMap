@@ -44,7 +44,7 @@ function hideMessage () {
         consoleTableRows: 8,
 
         // Websocket settings
-        wsHost: "ws://192.168.1.101:443/",
+        wsHost: "ws://192.168.56.6:8083/",
         psk: "18c989796c61724d4661b019f2779848dd69ae62"
     };
 
